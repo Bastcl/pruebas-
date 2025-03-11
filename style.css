@@ -1,33 +1,17 @@
 html {
-    background-color:midnightblue;
+    background-color: midnightblue;
     color: whitesmoke;
 }
 
-.titulo{
+.titulo {
     text-align: center;
     font-size: 1.5em;
-    font: futura;
+    font-family: roboto, sans-serif;
     text-transform: uppercase;
 }
+
 .contenedor {
     align-content: center;
     text-align: center;
     border-radius: 10px;
 }
-.instagram {
-    html {
-        background-color:midnightblue;
-        color: whitesmoke;
-    }
-    
-    .titulo{
-        text-align: center;
-        font-size: 1.5em;
-        font: futura;
-        text-transform: uppercase;
-    }
-    .contenedor {
-        align-content: center;
-        text-align: center;
-        border-radius: 10px;
-    }
